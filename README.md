@@ -1,7 +1,8 @@
 # BcChloe-custom-css
 # === BcChloe-custom-css ===
 * Contributors: BcChloe
-* Donate link: https://bcchloe.jp
+* Donate link: https://github.com/ifNoob/BcChloe-custom-css
+* Author URI: https://bcchloe.jp
 * Tags: CSS, Custom CSS, Page, Post
 * Requires at least: 4.x.x
 * Tested up to: 4.9.5
@@ -38,6 +39,7 @@
 # == Frequently asked questions ==
 * Switch Color Scheme BcChloe-custom-css.php 内 code
 * 個別の投稿ページ 及び 個別固定ページ のみの CSS 反映
+* https://codemirror.net/ の code theme 及び addon 残りは、.zip ファイルに纏めてあります 
 
 # == Changelog ==
 # Upgrade notice
